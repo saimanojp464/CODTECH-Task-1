@@ -1,7 +1,11 @@
 Name:PRATHIPATI SAI MANOJ
+
 Company:CODTECH IT SOLUTIONS
+
 Domain:Java Developer
+
 Duration:November to December 2024
+
 Mentor:Sai
 ### Overview of a Java Project
 
