@@ -6,7 +6,6 @@ Domain:Java Developer
 
 Duration:November to December 2024
 
-Mentor:Sai
 ### Overview of a Java Project
 
 A **Java project** is a software development endeavor that utilizes the Java programming language to build applications, solutions, or systems. Java is an object-oriented, platform-independent language, widely used in building everything from small utilities to large enterprise-level applications. A Java project typically involves a structured approach to coding, testing, building, deploying, and maintaining software.
