@@ -2,7 +2,7 @@ Name:PRATHIPATI SAI MANOJ
 
 Company:CODTECH IT SOLUTIONS
 
-Domain:Java Developer
+Domain:Java Programming
 
 Duration:November to December 2024
 
