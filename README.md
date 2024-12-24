@@ -6,9 +6,7 @@ ID:CTO8ERL
 
 Domain:Java Programming
 
-Duration:November to December 2024
-
-Mentor:SRAVANI GOUNI
+Duration:December 2024 to January 2025
 
 ### Overview of a Java Project
 
